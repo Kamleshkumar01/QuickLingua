@@ -21,8 +21,11 @@ Use Cases:
 
 Technologies Used:
 1.Neural Machine Translation (NMT) Architecture
+
 2.Deep Learning Frameworks (e.g., TensorFlow, PyTorch)
+
 3.Bidirectional Attention Mechanism
+
 4.Python Programming Language
 
 Future Enhancements:
