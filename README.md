@@ -29,8 +29,11 @@ Future Enhancements:
 The project is committed to ongoing enhancements and updates, including the incorporation of more extensive training datasets, fine-tuning for specific domains, and integration with additional languages for broader language translation capabilities.
 
 How to Use:
+
 1.Access the translation model through the provided interface.
+
 2.Input the Japanese text you want to translate.
+
 3.Receive the corresponding English translation instantly.
 
 Contribution and Feedback:
