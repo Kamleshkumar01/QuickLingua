@@ -1,4 +1,4 @@
-## QuickLingua Japanese to English Language Translation Model
+## QuickLingua: Japanese to English Language Translation Model
 
 ## Overview:
 
